@@ -10,7 +10,6 @@ The project was developed using the following stacks:
 - For the generation of the QR code, the name must be informed obligatorily.
 - Linkedin and gihub are optional.
 - All fields have validation
-- I didn't use tests because I hardly studied the subject
 - When clicking on generate image if there are no errors, a QR code will be generated.
 
 ## Instalation Projet
