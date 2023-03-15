@@ -9,10 +9,10 @@
         sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."</p>
     <div class="flex justify-between w-full gap-4">
         @if ($person->github)
-            <a role="button" class="btn btn-outline flex-1" href="{{ $person->github }}">Github</a>
+            <a role="button" class="btn btn-outline flex-1" href="{{ $person->github }}" target="_blank">Github</a>
         @endif
         @if ($person->linkedin)
-            <a role="button" class="btn btn-outline flex-1" href="{{ $person->linkedin }}">Linkedin</a>
+            <a role="button" class="btn btn-outline flex-1" href="{{ $person->linkedin }}" target="_blank">Linkedin</a>
         @endif
     </div>
 </div>
