@@ -2,8 +2,8 @@
 
 The project was developed using the following stacks:
 
-- Backend [Php 8.1](https://www.php.net/){:target="_blank" rel="noopener"}/[Laravel 10](https://laravel.com/){:target="_blank" rel="noopener"}/[MySql](https://www.mysql.com/){:target="_blank" rel="noopener"}
-- Frontend [LiveWire](https://laravel-livewire.com/){:target="_blank" rel="noopener"}/[Tailwindcss](https://tailwindcss.com/){:target="_blank" rel="noopener"}
+- Backend [Php 8.1](https://www.php.net/)/[Laravel 10](https://laravel.com/)/[MySql](https://www.mysql.com/)
+- Frontend [LiveWire](https://laravel-livewire.com/)/[Tailwindcss](https://tailwindcss.com/)/[DaisyUI](https://daisyui.com/)
 
 ## Description
 
