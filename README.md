@@ -36,8 +36,8 @@ docker run --rm \
     laravelsail/php81-composer:latest \
     composer install --ignore-platform-reqs
 
-./vendor/bin/sail up -d
 cp .env.example.sail .env
+./vendor/bin/sail up -d
 ./vendor/bin/sail artisan migrate
 ./vendor/bin/sail artisan artisan key:generate
 ```
