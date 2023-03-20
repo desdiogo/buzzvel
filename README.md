@@ -16,7 +16,7 @@ The project was developed using the following stacks:
 
 ### Local
 
-Note: Before running ```bash php artisan migrate``` Use the mysql credentials of your machine, replacing the variables DB_HOST, DB_PORT, in the env file
+Note: Before running ```php artisan migrate``` Use the mysql credentials of your machine, replacing the variables DB_HOST, DB_PORT, in the env file
 DB_DATABASE, DB_USERNAME, DB_PASSWORD
 
 ```bash
