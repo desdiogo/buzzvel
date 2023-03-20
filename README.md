@@ -2,8 +2,8 @@
 
 The project was developed using the following stacks:
 
-- Backend Php 8.1/Laravel 10/MySql
-- Frontend LiveWire/Tailwindcss
+- Backend [Php 8.1](https://www.php.net/)/[Laravel 10](https://laravel.com/)/[MySql](https://www.mysql.com/)
+- Frontend [LiveWire](https://laravel-livewire.com/)/[Tailwindcss](https://tailwindcss.com/)
 
 ## Description
 
@@ -27,6 +27,7 @@ php artisan key:generate
 ```
 
 ### Sail
+- [Laravel Sail](https://laravel.com/docs/10.x/sail)
 
 ```bash
 docker run --rm \
