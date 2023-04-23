@@ -56,6 +56,3 @@ php artisan serve
 ### Sail
 
 - http://localhost
-
-### Web
-- https://app.desdiogo.com.br
